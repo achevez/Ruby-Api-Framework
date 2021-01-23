@@ -1,0 +1,5 @@
+--require client-api
+--require graphql
+--require yaml
+--require spec_helper
+--format RspecHtmlReporter
